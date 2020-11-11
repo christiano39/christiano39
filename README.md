@@ -1,5 +1,12 @@
 <h1 align="center">Hey there, my name is Christian Arneson</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Fullstack Developer <a href="https://www.linkedin.com/in/christianthedev/">
+  <img align="center" alt="Christian's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/I_Am_Become_Dev">
+  <img align="center" alt="Christian's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/twitter.svg" />
+</a></h3>
+
+
 
 I am a full stack web developer who is passionate about creating intuitive, accessible software. Solving difficult problems in creative ways is my favorite thing about programming, and I am always looking for my next big challenge.
 
