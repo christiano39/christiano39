@@ -14,7 +14,6 @@ I am a full stack web developer who is passionate about creating intuitive, acce
 ### Languages
 - JavaScript
 - Python
-- Ruby
 
 ### Front End
 - React
