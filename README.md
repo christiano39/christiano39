@@ -5,7 +5,6 @@
 <a href="https://twitter.com/I_Am_Become_Dev">
   <img align="center" alt="Christian's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/twitter.svg" />
 </a></h3>
-<h3 align="center">https://christian-arneson.com</h3>
 
 I am a full stack web developer who is passionate about creating intuitive, accessible software. Solving difficult problems in creative ways is my favorite thing about programming, and I am always looking for my next big challenge.
 
@@ -14,15 +13,16 @@ I am a full stack web developer who is passionate about creating intuitive, acce
 ### Languages
 - JavaScript
 - Python
+- Ruby
 
 ### Front End
 - React
-- Redux
 - HTML/CSS/SASS/LESS
 
 ### Back End
 - Node.js
 - Express
+- Rails
 
 ### Databases
 - PostgreSQL
